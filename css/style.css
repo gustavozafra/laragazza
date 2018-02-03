@@ -375,4 +375,7 @@ p.copy {
 	.top-brand {
 		max-height: 75% !important;
 	}
+	.wrapper {
+	  padding: 5px !important;
+	}
 }
