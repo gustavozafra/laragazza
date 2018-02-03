@@ -44,6 +44,7 @@ $(window).load(function() { // Doing it this way because of some bugs with the n
 
 });
 
+//Teste
 $(document).ready(function(){
 $(".scroll-top").on('click', function(event){
         //event.preventDefault();
